@@ -1,0 +1,34 @@
+C:\Users\zagu\source\repos\Gorsel8HaftaOptikOkuyucu\Gorsel8HaftaOptikOkuyucu\bin\Debug\net6.0-windows\Gorsel8HaftaOptikOkuyucu.exe
+C:\Users\zagu\source\repos\Gorsel8HaftaOptikOkuyucu\Gorsel8HaftaOptikOkuyucu\bin\Debug\net6.0-windows\Gorsel8HaftaOptikOkuyucu.deps.json
+C:\Users\zagu\source\repos\Gorsel8HaftaOptikOkuyucu\Gorsel8HaftaOptikOkuyucu\bin\Debug\net6.0-windows\Gorsel8HaftaOptikOkuyucu.runtimeconfig.json
+C:\Users\zagu\source\repos\Gorsel8HaftaOptikOkuyucu\Gorsel8HaftaOptikOkuyucu\bin\Debug\net6.0-windows\Gorsel8HaftaOptikOkuyucu.dll
+C:\Users\zagu\source\repos\Gorsel8HaftaOptikOkuyucu\Gorsel8HaftaOptikOkuyucu\bin\Debug\net6.0-windows\Gorsel8HaftaOptikOkuyucu.pdb
+C:\Users\zagu\source\repos\Gorsel8HaftaOptikOkuyucu\Gorsel8HaftaOptikOkuyucu\obj\Debug\net6.0-windows\Gorsel8HaftaOptikOkuyucu.csproj.AssemblyReference.cache
+C:\Users\zagu\source\repos\Gorsel8HaftaOptikOkuyucu\Gorsel8HaftaOptikOkuyucu\obj\Debug\net6.0-windows\Gorsel8HaftaOptikOkuyucu.Form1.resources
+C:\Users\zagu\source\repos\Gorsel8HaftaOptikOkuyucu\Gorsel8HaftaOptikOkuyucu\obj\Debug\net6.0-windows\Gorsel8HaftaOptikOkuyucu.csproj.GenerateResource.cache
+C:\Users\zagu\source\repos\Gorsel8HaftaOptikOkuyucu\Gorsel8HaftaOptikOkuyucu\obj\Debug\net6.0-windows\Gorsel8HaftaOptikOkuyucu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zagu\source\repos\Gorsel8HaftaOptikOkuyucu\Gorsel8HaftaOptikOkuyucu\obj\Debug\net6.0-windows\Gorsel8HaftaOptikOkuyucu.AssemblyInfoInputs.cache
+C:\Users\zagu\source\repos\Gorsel8HaftaOptikOkuyucu\Gorsel8HaftaOptikOkuyucu\obj\Debug\net6.0-windows\Gorsel8HaftaOptikOkuyucu.AssemblyInfo.cs
+C:\Users\zagu\source\repos\Gorsel8HaftaOptikOkuyucu\Gorsel8HaftaOptikOkuyucu\obj\Debug\net6.0-windows\Gorsel8HaftaOptikOkuyucu.csproj.CoreCompileInputs.cache
+C:\Users\zagu\source\repos\Gorsel8HaftaOptikOkuyucu\Gorsel8HaftaOptikOkuyucu\obj\Debug\net6.0-windows\Gorsel8HaftaOptikOkuyucu.dll
+C:\Users\zagu\source\repos\Gorsel8HaftaOptikOkuyucu\Gorsel8HaftaOptikOkuyucu\obj\Debug\net6.0-windows\refint\Gorsel8HaftaOptikOkuyucu.dll
+C:\Users\zagu\source\repos\Gorsel8HaftaOptikOkuyucu\Gorsel8HaftaOptikOkuyucu\obj\Debug\net6.0-windows\Gorsel8HaftaOptikOkuyucu.pdb
+C:\Users\zagu\source\repos\Gorsel8HaftaOptikOkuyucu\Gorsel8HaftaOptikOkuyucu\obj\Debug\net6.0-windows\Gorsel8HaftaOptikOkuyucu.genruntimeconfig.cache
+C:\Users\zagu\source\repos\Gorsel8HaftaOptikOkuyucu\Gorsel8HaftaOptikOkuyucu\obj\Debug\net6.0-windows\ref\Gorsel8HaftaOptikOkuyucu.dll
+C:\Users\zagu\Desktop\projeler\Visual Studio projekte C++ und C#\Gorsel8HaftaOptikOkuyucu\Gorsel8HaftaOptikOkuyucu\bin\Debug\net6.0-windows\Gorsel8HaftaOptikOkuyucu.exe
+C:\Users\zagu\Desktop\projeler\Visual Studio projekte C++ und C#\Gorsel8HaftaOptikOkuyucu\Gorsel8HaftaOptikOkuyucu\bin\Debug\net6.0-windows\Gorsel8HaftaOptikOkuyucu.deps.json
+C:\Users\zagu\Desktop\projeler\Visual Studio projekte C++ und C#\Gorsel8HaftaOptikOkuyucu\Gorsel8HaftaOptikOkuyucu\bin\Debug\net6.0-windows\Gorsel8HaftaOptikOkuyucu.runtimeconfig.json
+C:\Users\zagu\Desktop\projeler\Visual Studio projekte C++ und C#\Gorsel8HaftaOptikOkuyucu\Gorsel8HaftaOptikOkuyucu\bin\Debug\net6.0-windows\Gorsel8HaftaOptikOkuyucu.dll
+C:\Users\zagu\Desktop\projeler\Visual Studio projekte C++ und C#\Gorsel8HaftaOptikOkuyucu\Gorsel8HaftaOptikOkuyucu\bin\Debug\net6.0-windows\Gorsel8HaftaOptikOkuyucu.pdb
+C:\Users\zagu\Desktop\projeler\Visual Studio projekte C++ und C#\Gorsel8HaftaOptikOkuyucu\Gorsel8HaftaOptikOkuyucu\obj\Debug\net6.0-windows\Gorsel8HaftaOptikOkuyucu.csproj.AssemblyReference.cache
+C:\Users\zagu\Desktop\projeler\Visual Studio projekte C++ und C#\Gorsel8HaftaOptikOkuyucu\Gorsel8HaftaOptikOkuyucu\obj\Debug\net6.0-windows\Gorsel8HaftaOptikOkuyucu.Form1.resources
+C:\Users\zagu\Desktop\projeler\Visual Studio projekte C++ und C#\Gorsel8HaftaOptikOkuyucu\Gorsel8HaftaOptikOkuyucu\obj\Debug\net6.0-windows\Gorsel8HaftaOptikOkuyucu.csproj.GenerateResource.cache
+C:\Users\zagu\Desktop\projeler\Visual Studio projekte C++ und C#\Gorsel8HaftaOptikOkuyucu\Gorsel8HaftaOptikOkuyucu\obj\Debug\net6.0-windows\Gorsel8HaftaOptikOkuyucu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zagu\Desktop\projeler\Visual Studio projekte C++ und C#\Gorsel8HaftaOptikOkuyucu\Gorsel8HaftaOptikOkuyucu\obj\Debug\net6.0-windows\Gorsel8HaftaOptikOkuyucu.AssemblyInfoInputs.cache
+C:\Users\zagu\Desktop\projeler\Visual Studio projekte C++ und C#\Gorsel8HaftaOptikOkuyucu\Gorsel8HaftaOptikOkuyucu\obj\Debug\net6.0-windows\Gorsel8HaftaOptikOkuyucu.AssemblyInfo.cs
+C:\Users\zagu\Desktop\projeler\Visual Studio projekte C++ und C#\Gorsel8HaftaOptikOkuyucu\Gorsel8HaftaOptikOkuyucu\obj\Debug\net6.0-windows\Gorsel8HaftaOptikOkuyucu.csproj.CoreCompileInputs.cache
+C:\Users\zagu\Desktop\projeler\Visual Studio projekte C++ und C#\Gorsel8HaftaOptikOkuyucu\Gorsel8HaftaOptikOkuyucu\obj\Debug\net6.0-windows\Gorsel8HaftaOptikOkuyucu.dll
+C:\Users\zagu\Desktop\projeler\Visual Studio projekte C++ und C#\Gorsel8HaftaOptikOkuyucu\Gorsel8HaftaOptikOkuyucu\obj\Debug\net6.0-windows\refint\Gorsel8HaftaOptikOkuyucu.dll
+C:\Users\zagu\Desktop\projeler\Visual Studio projekte C++ und C#\Gorsel8HaftaOptikOkuyucu\Gorsel8HaftaOptikOkuyucu\obj\Debug\net6.0-windows\Gorsel8HaftaOptikOkuyucu.pdb
+C:\Users\zagu\Desktop\projeler\Visual Studio projekte C++ und C#\Gorsel8HaftaOptikOkuyucu\Gorsel8HaftaOptikOkuyucu\obj\Debug\net6.0-windows\Gorsel8HaftaOptikOkuyucu.genruntimeconfig.cache
+C:\Users\zagu\Desktop\projeler\Visual Studio projekte C++ und C#\Gorsel8HaftaOptikOkuyucu\Gorsel8HaftaOptikOkuyucu\obj\Debug\net6.0-windows\ref\Gorsel8HaftaOptikOkuyucu.dll
